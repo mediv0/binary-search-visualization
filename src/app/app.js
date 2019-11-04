@@ -23,7 +23,7 @@ function createChartElement(textValue) {
                         <div class="wrapper__chart__graph__items__item">
                         <div class="wrapper__chart__graph__items__item__line"></div>
                         <hr style="margin-top: 10px;" />
-                        <p id="chartItemNumber" style="text-align: center;">${textValue}</p>
+                           <p id="chartItemNumber" style="text-align: center;">${textValue}</p>
                         </div>
                     `
         ELEMENTS.CHARTID.appendChild(chartComp);
