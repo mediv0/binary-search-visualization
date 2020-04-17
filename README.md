@@ -1,5 +1,5 @@
 # binary-Search-with-animation
-# [SEE LIVE](https://mahdifakhr.github.io/binary-Search-with-animation/)
+# [LIVE DEMO HERE](https://mahdifakhr.github.io/binary-search-visualization/)
 
 It is a very simple app that you can see binary algorithm step by step with animation
 
